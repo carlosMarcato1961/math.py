@@ -1,4 +1,5 @@
 {
+    header('Access-Control-Allow-Origin: https://carlosmarcato1961.github.io')
     "name": "site_flet_mat",
     "short_name": "site_flet_mat",
     "start_url": ".",
